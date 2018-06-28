@@ -1,0 +1,5 @@
+/* Hide social media icons in footer on homepage */
+.page-id-26475 #footer-nav .socials-item
+{
+	  visibility: hidden;
+}

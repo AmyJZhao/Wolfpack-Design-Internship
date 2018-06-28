@@ -1,0 +1,25 @@
+/* Social media icons turn white when hovered on*/
+.socials-colored-hover a:hover .socials-item-icon.facebook {
+	color: #ffffff;
+}
+.socials-colored-hover a:hover .socials-item-icon.twitter {
+	color: #ffffff;
+}
+.socials-colored-hover a:hover .socials-item-icon.pinterest {
+	color: #ffffff;
+}
+.socials-colored-hover a:hover .socials-item-icon.instagram {
+	color: #ffffff;
+}
+.socials-colored-hover a:hover .socials-item-icon.youtube {
+	color: #ffffff;
+}
+
+
+
+
+
+
+
+
+

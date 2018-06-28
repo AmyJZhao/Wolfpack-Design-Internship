@@ -1,0 +1,16 @@
+/* Make social media icons black */
+.socials-colored a .socials-item-icon.facebook{
+	color: #000000;
+}
+.socials-colored a .socials-item-icon.twitter{
+	color: #000000;
+}
+.socials-colored a .socials-item-icon.pinterest{
+	color: #000000;
+}
+.socials-colored a .socials-item-icon.instagram{
+	color: #000000;
+}
+.socials-colored a .socials-item-icon.youtube{
+	color: #000000;
+}
